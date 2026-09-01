@@ -1,3 +1,6 @@
 [submodule "data-prep"]
 	path = data-prep
 	url = https://github.com/simickajecka/data-prep.git
+[submodule "modeling"]
+	path = modeling
+	url = https://github.com/simickajecka/modeling.git
